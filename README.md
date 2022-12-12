@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yelizondo (Yuberth Elizondo)
 - 👀 I’m interested in Backend Development
-- 📫 Contact me -> info@yuberthelizondo.tech
+- 📫 Contact me -> yuberth@faunn.io
 
 <!---
 yelizondo/yelizondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
