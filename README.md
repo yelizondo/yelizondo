@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yelizondo (Yuberth Elizondo)
-- 👀 I’m interested in Backend Development
+- 👋 Hey, I’m Yuberth Elizondo
+- 👀 Backend Development
 - 📫 Contact me -> yuberth@faunn.io
 
 <!---
