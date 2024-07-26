@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Yuberth Elizondo
-- 👀 Backend Development
+- 👀 Fullstack Development
 - 📫 Contact me -> yuberth.elizondo@gmail.com
 
 <!---
