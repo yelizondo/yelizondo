@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Yuberth Elizondo
 - 👀 Backend Development
-- 📫 Contact me -> info@faunn.io
+- 📫 Contact me -> yuberth.elizondo@gmail.com
 
 <!---
 yelizondo/yelizondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
